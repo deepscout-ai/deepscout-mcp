@@ -145,7 +145,7 @@ More prompts are in the [documentation](https://docs.deepscout.ai/api/mcp).
 
 Usage-based, paid from prepaid credit. The same prices as the API:
 
-- Website analysis and sample data: free for your first 10 shops
+- Website analysis and sample data: 10 shops a month free, then €0.50 per analysis
 - Scraping: from €0.40 per 1,000 products
 - Matching: €7 per 1,000 products, with a free matching sample first
 
