@@ -1,5 +1,7 @@
 # DeepScout MCP server
 
+[![Listed on HookMCP](https://hookmcp.com/badge.svg)](https://hookmcp.com)
+
 Scrape product catalogs from any e-shop and match the same products across shops, with no EAN or GTIN needed. Works from Claude, Claude Code, Cursor, Codex, VS Code and any other MCP client.
 
 DeepScout ([deepscout.ai](https://deepscout.ai/en/dev)) hosts the server, so you install nothing. You write what you want in plain language, and the agent calls the DeepScout API for you.
